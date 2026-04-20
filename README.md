@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Boris
 
-<!--
-**Boris19942210/Boris19942210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems architecture enthusiast | Building complex systems for fun**
 
-Here are some ideas to get you started:
+I'm not a professional software engineer — I build distributed systems, compilers, and quantum-inspired architectures purely as a hobby.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Featured Projects
+- **[JARVIS OS](https://github.com/Boris19942210/JARVIS-OS-Distributed-Operating-System-Prototype)** — Distributed kernel with blockchain filesystem
+- **C123 Compiler** — DSL with ternary logic and custom VM (coming soon)
+- **Stealth Bridge** — DPI bypass with quantum memory (coming soon)
+
+### 📊 What I'm Working On
+- Distributed consensus using Kuramoto model
+- Ternary compression with O(1) random access
+- Quantum-inspired memory for semantic search
+
+---
