@@ -1,17 +1,41 @@
-## 👋 Hi, I'm Boris
+# Привет 👋
 
-**Systems architecture enthusiast | Building complex systems for fun**
+Я — инженер. Не по диплому, а по складу ума.
 
-I'm not a professional software engineer — I build distributed systems, compilers, and quantum-inspired architectures purely as a hobby.
+Начинал с модификации игр, потом пошли P2P-сети, сервисы, компрессоры, инструменты. Учусь через практику: беру задачу, собираю решение, разбираюсь, почему работает, чищу, ломаю, собираю заново.
 
-### 🛠 Featured Projects
-- **[JARVIS OS](https://github.com/Boris19942210/JARVIS-OS-Distributed-Operating-System-Prototype)** — Distributed kernel with blockchain filesystem
-- **C123 Compiler** — DSL with ternary logic and custom VM (coming soon)
-- **Stealth Bridge** — DPI bypass with quantum memory (coming soon)
+## Что делаю
 
-### 📊 What I'm Working On
-- Distributed consensus using Kuramoto model
-- Ternary compression with O(1) random access
-- Quantum-inspired memory for semantic search
+- **P2P-сети** — узлы, NAT traversal, шифрование.
+- **Backend** — FastAPI, Postgres, очереди, outbox pattern.
+- **Системные утилиты** — компрессия, форматы файлов, реверс-инжиниринг.
+- **Эксперименты** — троичная логика, осцилляторные модели, концепты.
+
+## Стек
+
+```
+Языки:    Python, JavaScript/Node, немного C++
+Backend:  FastAPI, PostgreSQL, SQLite, Docker
+Сети:     UDP/TCP, P2P, NAT traversal, VPN
+Инструм.: VS Code, Termux, Git, Linux
+```
+
+## Как я работаю
+
+- Собираю рабочее решение **быстро**, потом **чищу**.
+- Использую ИИ как инструмент, но **проверяю каждую строку**.
+- Довожу до **работающего** состояния, а не до «красивого».
+- Пишу **честные** README: что работает, что нет, где проблемы.
+
+## Проекты
+
+Скоро здесь появятся ссылки. Пока — смотри репозитории.
+
+## Связь
+
+- Telegram: *[твой ник, если хочешь]*
+- Email: *[если хочешь]*
 
 ---
+
+*«Инженер — это не профессия. Это способ смотреть на мир.»*
